@@ -1,4 +1,5 @@
 function fiboEvenSum(n) {
+  //Sums up even numbers of a fibonacci sequence
   let sum = 0;
   let i = 2;
   var fibo = new Array(n);
